@@ -29,7 +29,7 @@ upload:2022/8/14
 
 ### 参考
 Python Japan「ゼロからのPython入門講座」より演習問題
-(https://www.python.jp/train/exercise/index.html){:target="_blank"}
+https://www.python.jp/train/exercise/index.html
 
 ## sample_game_4.py : 3文字のアルファベットを当てるゲーム
 upload:2022/8/14
